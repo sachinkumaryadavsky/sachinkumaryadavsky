@@ -1,5 +1,5 @@
 # Hi, I'm Sachin Kumar 👋  
-B.Tech CSE Graduate | Backend Developer | Ex-SDE Intern @ Stashfin  
+B.Tech CSE Graduate @ NIT Agartala | Software Developer | Ex-SDE Intern @ Stashfin  
 
 I am a **Computer Science graduate from NIT Agartala (CGPA: 8.83)** with hands-on experience in building **scalable backend systems, REST APIs, and real-time applications**.  
 I recently completed a **6-month SDE Internship at Stashfin**, where I worked on core backend services, system design, and partner API integrations.
@@ -20,7 +20,7 @@ I recently completed a **6-month SDE Internship at Stashfin**, where I worked on
 ## 🚀 Projects
 
 ### 🔹 Placement Portal (MERN Stack)
-- Full-stack placement management system for students and admins  
+- Full-stack placement management system for students,TNPs and TPOs  
 - Implemented **authentication, role-based access, and job filtering**
 - Tech Stack: **React.js, Node.js, Express.js, MongoDB**
 
@@ -35,10 +35,10 @@ I recently completed a **6-month SDE Internship at Stashfin**, where I worked on
 ## 🧠 Technical Skills
 
 **Languages:**  
-Node.js (TypeScript), Go, C++, JavaScript, SQL  
+ C++, JavaScript, TypeScript, Go, SQL 
 
 **Backend & Web:**  
-Fastify, Express.js, MongoDB, React.js  
+Node.js, Fastify, Express.js, React.js, MongoDB
 
 **Core CS Fundamentals:**  
 Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks  
