@@ -6,9 +6,7 @@ I am a **Computer Science graduate from NIT Agartala (CGPA: 8.83)** with hands-o
 I recently completed a **6-month SDE Internship at Stashfin**, where I worked on core backend services, system design, and partner API integrations.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sachin-kumar-8b8441226/">LinkedIn</a> •
-  
-  <a href="mailto:sachinkumaryadavnita@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/sachin-kumar-8b8441226/">LinkedIn</a> • <a href="mailto:sachinkumaryadavnita@gmail.com">Email</a>
 </p>
 
 ---
