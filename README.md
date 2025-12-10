@@ -1,5 +1,6 @@
 # Hi, I'm Sachin Kumar 👋  
-B.Tech CSE Graduate @ NIT Agartala | Software Developer | Ex-SDE Intern @ Stashfin  
+B.Tech CSE @ NIT Agartala |Ex-SDE Intern @ Stashfin | Node.js • TypeScript • Go | LeetCode Knight
+
 
 I am a **Computer Science graduate from NIT Agartala (CGPA: 8.83)** with hands-on experience in building **scalable backend systems, REST APIs, and real-time applications**.  
 I recently completed a **6-month SDE Internship at Stashfin**, where I worked on core backend services, system design, and partner API integrations.
@@ -34,14 +35,27 @@ I recently completed a **6-month SDE Internship at Stashfin**, where I worked on
 
 ## 🧠 Technical Skills
 
-**Languages:**  
- C++, JavaScript, TypeScript, Go, SQL 
+**Programming Languages:**  
+C++ • TypeScript • Go • JavaScript  • SQL  
 
-**Backend & Web:**  
-Node.js, Fastify, Express.js, React.js, MongoDB
+**Runtime & Backend Frameworks:**  
+Node.js • Express.js • Fastify  
 
 **Core CS Fundamentals:**  
-Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks  
+Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
+
+**Frontend Framework:**  
+React.js  
+
+**Databases:**  
+MongoDB • MySQL  
+
+**Backend & Architecture:**  
+REST APIs • gRPC • Microservices • JWT • WebSockets  
+
+**Developer Tools:**  
+Git • GitHub • Postman • VS Code  
+
 
 ---
 
@@ -50,14 +64,6 @@ Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 - 🟣 **LeetCode Knight** – Top 5% globally  
 - ✅ **1150+ problems solved on LeetCode**
 - ✅ **400+ problems solved on GeeksForGeeks**
-
----
-
-## 📈 GitHub Stats
-
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinkumaryadavsky&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumaryadavsky&layout=compact)
 
 ---
 
