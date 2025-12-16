@@ -1,82 +1,25 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
-<h3 align="center">B.Tech CSE @ NIT Agartala |Ex-SDE Intern @ Stashfin | Node.js • TypeScript • Go | LeetCode Knight </h3>
+<h3 align="center">Software Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumaryadavsky&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumaryadavsky" /> </p>
 
-I am a **Computer Science graduate from NIT Agartala (CGPA: 8.83)** with hands-on experience in building **scalable backend systems, REST APIs, and real-time applications**.  
-I recently completed a **6-month SDE Internship at Stashfin**, where I worked on core backend services, system design, and partner API integrations.
+- 🌱 I’m currently learning **golang**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sachin-kumar-8b8441226/">LinkedIn</a> • <a href="mailto:sachinkumaryadavnita@gmail.com">Email</a>
+- 💬 Ask me about **MERN**
+
+- 📫 How to reach me **sachinkumaryadavnita@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sachin-kumar-8b8441226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachin-kumar-8b8441226/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/sachinkumaryadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/sachinkumaryadav" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinkumaryadavsky&show_icons=true&locale=en&layout=compact" alt="sachinkumaryadavsky" /></p>
 
-## 🏢 Internship Experience
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinkumaryadavsky&show_icons=true&locale=en" alt="sachinkumaryadavsky" /></p>
 
-### 🔹 Software Development Engineer Intern – Stashfin (6 Months)
-- Built **scalable backend services** using **Node.js (TypeScript), Fastify, and Go**
-- Contributed to **system design and API development** for production features
-- Integrated **partner APIs** for secure real-time data exchange
-- Worked on **performance-oriented backend architecture**
-- Collaborated with product, frontend, and QA teams in an **Agile environment**
-
----
-
-## 🚀 Projects
-
-### 🔹 Placement Portal (MERN Stack)
-- Full-stack placement management system for students,TNPs and TPOs  
-- Implemented **authentication, role-based access, and job filtering**
-- Tech Stack: **React.js, Node.js, Express.js, MongoDB**
-
-### 🔹 Real-Time Chat Application
-- Built a **real-time messaging system using WebSockets**
-- Persistent chat storage using **MongoDB**
-- Responsive UI with **React.js**
-- Tech Stack: **React.js, WebSockets, Node.js, MongoDB**
-
----
-
-## 🧠 Technical Skills
-
-**Programming Languages:**  
-C++ • TypeScript • Go • JavaScript  • SQL  
-
-**Runtime & Backend Frameworks:**  
-Node.js • Express.js • Fastify • Gin
-
-**Core CS Fundamentals:**  
-Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
-
-**Frontend Framework:**  
-React.js  
-
-**Databases:**  
-MongoDB • MySQL  
-
-**Backend & Architecture:**  
-REST APIs • gRPC • Microservices • JWT • WebSockets  
-
-**Developer Tools:**  
-Git • GitHub • Postman • VS Code  
-
-
----
-
-## 🏆 Achievements
-
-- 🟣 **LeetCode Knight** – Top 5% globally  
-- ✅ **1150+ problems solved on LeetCode**
-- ✅ **400+ problems solved on GeeksForGeeks**
-
----
-
-## 🔗 Connect With Me
-
-- 📧 Email: sachinkumaryadavnita@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/sachin-kumar-8b8441226/
-
-
----
-⭐ Open to Backend Developer & SDE opportunities.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkumaryadavsky&" alt="sachinkumaryadavsky" /></p>
